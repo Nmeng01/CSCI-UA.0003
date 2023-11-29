@@ -1,0 +1,44 @@
+The string Adult occurs in 2568 line(s) and a total of 2570 time(s).
+It occurs in 2568 line(s) in the column age.
+
+The string adult occurs in 2568 line(s) and a total of 2570 time(s).
+It occurs in 2568 line(s) in the column age.
+
+The string Juvenile occurs in 330 line(s) and a total of 330 time(s).
+It occurs in 330 line(s) in the column age.
+
+The string cinnamon occurs in 1468 line(s) and a total of 3030 time(s).
+It occurs in 392 line(s) in the column primary_fur_color.
+
+The string gray occurs in 2705 line(s) and a total of 5477 time(s).
+It occurs in 2473 line(s) in the column primary_fur_color.
+
+The string grey occurs in 0 line(s) and a total of 0 time(s).
+It occurs in 0 line(s) in the column primary_fur_color.
+
+The string black occurs in 191 line(s) and a total of 398 time(s).
+It occurs in 103 line(s) in the column primary_fur_color.
+
+The string brown occurs in 10 line(s) and a total of 11 time(s).
+It occurs in 0 line(s) in the column primary_fur_color.
+
+The string white occurs in 960 line(s) and a total of 1994 time(s).
+It occurs in 0 line(s) in the column primary_fur_color.
+
+The string cinnamon occurs in 1468 line(s) and a total of 3030 time(s).
+It occurs in 1035 line(s) in the column highlight_fur_color.
+
+The string gray occurs in 2705 line(s) and a total of 5477 time(s).
+It occurs in 232 line(s) in the column highlight_fur_color.
+
+The string grey occurs in 0 line(s) and a total of 0 time(s).
+It occurs in 0 line(s) in the column highlight_fur_color.
+
+The string black occurs in 191 line(s) and a total of 398 time(s).
+It occurs in 85 line(s) in the column highlight_fur_color.
+
+The string brown occurs in 10 line(s) and a total of 11 time(s).
+It occurs in 0 line(s) in the column highlight_fur_color.
+
+The string white occurs in 960 line(s) and a total of 1994 time(s).
+It occurs in 585 line(s) in the column highlight_fur_color.

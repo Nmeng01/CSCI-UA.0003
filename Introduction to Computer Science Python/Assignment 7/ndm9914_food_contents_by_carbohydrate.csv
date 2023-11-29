@@ -1,0 +1,949 @@
+Cod, raw	0
+Cod, frozen, raw	0
+Cod, frozen, grilled	0
+Coley, raw	0
+Haddock, raw	0
+Haddock, steamed	0
+Haddock, steamed, weighed with bones and skin	0
+Haddock, smoked, steamed	0
+Haddock, smoked, steamed, weighed with bones and skin	0
+Halibut, raw	0
+Lemon sole, raw	0
+Lemon sole, steamed	0
+Lemon sole, steamed, weighed with bones and skin	0
+Plaice, raw	0
+Plaice, frozen, steamed	0
+Plaice, frozen, steamed, weighed with bones and skin	0
+Whiting, steamed	0
+Whiting, steamed, weighed with bones and skin	0
+Herring, raw	0
+Herring, grilled	0
+Herring, grilled, weighed with bones and skin	0
+Mackerel, fried in blended oil	0
+Mackerel, fried in blended oil, weighed with bones and skin	0
+Mackerel, smoked	0
+Salmon, steamed	0
+Salmon, steamed, weighed with bones and skin	0
+Salmon, smoked	0
+Salmon, red, canned in brine, flesh only, drained	0
+Tuna, canned in oil, drained	0
+Prawns, boiled	0
+Prawns, boiled, weighed with shells	0
+Anchovies, canned in oil, drained	0
+Mackerel, raw	0
+Mackerel, grilled	0
+Salmon, raw	0
+Salmon, grilled	0
+Sardines, canned in brine, drained	0
+Sardines, canned in oil, drained	0
+Trout, rainbow, grilled	0
+Salmon, pink, canned in brine, flesh only, drained	0
+Tuna, canned in brine, drained	0
+Coley, steamed	0
+Coley, steamed, weighed with bones and skin	0
+Mackerel, grilled, weighed with bones and skin	0
+Salmon, grilled, weighed with bones and skin	0
+Salmon, pink, canned in brine, flesh and bones, drained	0
+Trout, rainbow, grilled, weighed with bones and skin	0
+Compound cooking fat	0
+Fat spread (70-80% fat), not polyunsaturated	0
+Sesame oil	0
+Gelatine	0
+Salt	0
+Water, distilled	0
+Margarine, hard, vegetable fats only	0
+Beef, average, trimmed fat, raw	0
+Beef, average, fat, cooked	0
+Beef, brisket, raw, lean and fat	0
+Beef, brisket, boiled, lean and fat	0
+Beef, fore-rib/rib-roast, raw, lean and fat	0
+Beef, fore-rib/rib-roast, roasted, lean	0
+Beef, fore-rib/rib-roast, roasted, lean and fat	0
+Beef, silverside, salted, raw, lean	0
+Beef, silverside, salted, boiled, lean	0
+Beef, silverside, salted, boiled, lean and fat	0
+Beef, sirloin joint, roasted, lean	0
+Beef, sirloin joint, roasted, lean and fat	0
+Beef, sirloin steak, raw, lean and fat	0
+Beef, stewing steak, raw, lean and fat	0
+Beef, stewing steak, stewed, lean and fat	0
+Beef, topside, raw, lean and fat	0
+Beef, topside, roasted medium-rare, lean	0
+Beef, topside, roasted medium-rare, lean and fat	0
+Lamb, average, trimmed fat, raw	0
+Lamb, average, trimmed fat, cooked	0
+Lamb, best end neck cutlets, raw, lean and fat	0
+Lamb, best end neck cutlets, grilled, lean	0
+Lamb, best end neck cutlets, grilled, lean, weighed with fat and bone	0
+Lamb, best end neck cutlets, grilled, lean and fat	0
+Lamb, best end neck cutlets, grilled, lean and fat, weighed with bone	0
+Lamb, breast, raw, lean and fat	0
+Lamb, breast, roasted, lean	0
+Lamb, breast, roasted, lean and fat	0
+Lamb, loin chops, grilled, lean	0
+Lamb, loin chops, grilled, lean, weighed with fat and bone	0
+Lamb, shoulder, raw, lean and fat	0
+Lamb, shoulder, whole, roasted, lean	0
+Lamb, shoulder, whole, roasted, lean and fat	0
+Lamb, stewing, raw, lean and fat	0
+Lamb, stewing, stewed, lean	0
+Lamb, stewing, stewed, lean and fat	0
+Pork, trimmed lean, raw	0
+Pork, trimmed fat, raw	0
+Pork, fat, cooked	0
+Pork, belly joint/slices, raw, lean and fat, weighed with bone	0
+Pork, belly joint/slices, grilled, lean and fat	0
+Pork, diced, raw, lean	0
+Pork, loin chops, raw, lean and fat	0
+Pork, loin chops, grilled, lean	0
+Pork, loin chops, grilled, lean and fat	0
+Chicken, dark meat, raw	0
+Chicken, light meat, raw	0
+Chicken, corn-fed, raw, dark meat only	0
+Chicken, corn-fed, raw, light meat only	0
+Chicken, breast, casseroled, meat and skin	0
+Chicken, thighs, casseroled, meat and skin	0
+Chicken, wing quarter, casseroled, meat and skin	0
+Chicken, dark meat, roasted	0
+Chicken, light meat, roasted	0
+Chicken, meat, average, roasted	0
+Chicken, skin, dry, roasted/grilled	0
+Turkey, dark meat, raw	0
+Turkey, light meat, raw	0
+Turkey, meat, average, raw	0
+Turkey, dark meat, roasted	0
+Turkey, light meat, roasted	0
+Turkey, meat, average, roasted	0
+Duck, raw, meat, fat and skin	0
+Duck, roasted, meat only	0
+Duck, roasted, meat, fat and skin	0
+Goose, roasted, meat, fat and skin	0
+Grouse, roasted, meat only	0
+Grouse, roasted, meat only, weighed with bone	0
+Hare, stewed, meat only	0
+Hare, stewed, meat only, weighed with bone	0
+Partridge, roasted, meat only	0
+Partridge, roasted, meat only, weighed with bone	0
+Pheasant, roasted, meat only	0
+Pheasant, roasted, meat only, weighed with bone	0
+Pigeon, roasted, meat only	0
+Pigeon, roasted, meat only, weighed with bone	0
+Rabbit, raw, meat only	0
+Rabbit, stewed, meat only	0
+Rabbit, stewed, meat only, weighed with bone	0
+Venison, raw	0
+Heart, lamb, raw	0
+Heart, ox, raw	0
+Heart, ox, stewed	0
+Heart, pig, raw	0
+Kidney, lamb, raw	0
+Kidney, ox, raw	0
+Kidney, ox, stewed	0
+Kidney, pig, raw	0
+Kidney, pig, stewed	0
+Liver, chicken, raw	0
+Liver, lamb, raw	0
+Oxtail, stewed	0
+Sweetbread, lamb, raw	0
+Sweetbread, lamb, fried	0
+Tongue, lamb, raw	0
+Tongue, ox, pickled, raw	0
+Tongue, ox, pickled, stewed	0
+Tongue, sheep, stewed	0
+Tripe, dressed, raw	0
+Pork, trotters and tails, boiled	0
+Beef, average, trimmed lean, raw	0
+Beef, mince, raw	0
+Beef, mince, stewed	0
+Beef, rump steak, lean and fat, raw	0
+Beef, rump steak, lean and fat, fried	0
+Beef, rump steak, lean only, fried	0
+Beef, rump steak, lean only, grilled	0
+Lamb, lean only, raw, average	0
+Lamb, loin chops, lean and fat, raw	0
+Lamb, loin chops, lean and fat, grilled	0
+Lamb, leg, average, lean and fat, raw	0
+Lamb, leg, whole, lean only, roast, medium	0
+Lamb, leg, whole, lean and fat, roast, medium	0
+Lamb, mince, raw	0
+Pork, diced, casseroled, lean only	0
+Pork, leg joint, lean and fat, raw	0
+Pork, leg joint, lean only, roast, medium	0
+Pork, leg joint, lean and fat, roast, medium	0
+Veal, escalope, raw	0
+Veal, escalope, fried	0
+Chicken, meat only, average, raw	0
+Duck, raw, meat only	0
+Venison, roast	0
+Heart, lamb, roasted	0
+Kidney, lamb, fried	0
+Lamb, loin chops, grilled, lean and fat, weighed with bone	0
+Lamb, loin chops, raw, lean and fat, weighed with bone	0
+Pork, leg joint, raw, lean and fat, weighed with bone	0
+Bacon rashers, back, raw	0
+Bacon rashers, back, grilled	0
+Bacon rashers, middle, raw	0
+Bacon rashers, middle, fried	0
+Bacon rashers, middle, grilled	0
+Bacon rashers, streaky, raw	0
+Bacon rashers, streaky, fried	0
+Bacon rashers, streaky, grilled	0
+Bacon loin steaks, grilled	0
+Ham, gammon joint, raw	0
+Ham, gammon joint, boiled	0
+Ham, gammon rashers, grilled	0
+Brawn	0
+Beefburgers, chilled/frozen, raw	0
+Tripe, dressed, stewed	0
+Cheese, cheddar, English	0.1
+Cheese, hard, average	0.1
+Cheese, Stilton, blue	0.1
+Cheese, white, average	0.1
+Dairy spread (40% fat)	0.1
+Ham, canned	0.1
+Mushrooms, common, fried in butter	0.2
+Margarine, soft, polyunsaturated	0.2
+Red wine	0.2
+Mushrooms, common, fried in corn oil	0.3
+Coffee, infusion, average	0.3
+Duck, crispy, chinese style	0.3
+Mushrooms, common, raw	0.4
+Mushrooms, common, boiled in salted water	0.4
+Soya, non-dairy alternative to milk, unsweetened	0.5
+Spinach, frozen, boiled in unsalted water	0.5
+Grillsteaks, beef, chilled/frozen, grilled	0.5
+White wine, dry	0.6
+Vinegar	0.6
+Butter	0.6
+Tofu, soya bean, steamed	0.7
+Asparagus, boiled, weighed as served	0.7
+Rhubarb, stewed without sugar	0.7
+Rhubarb, raw	0.8
+Sesame seeds	0.8
+Fat spread (70% fat), polyunsaturated	0.8
+Cheese, Parmesan, fresh	0.9
+Chicory, raw	0.9
+Tahini paste	0.9
+Cheese, goats milk soft, full fat, white rind	1
+Curly kale, boiled in salted water	1
+Margarine, hard, animal and vegetable fats	1
+Margarine, soft, not polyunsaturated	1
+Yeast, bakers, compressed	1
+Corned beef, canned	1
+Ham	1
+Pilchards, canned in tomato sauce	1.1
+Pate, liver	1.1
+Avocado, average, weighed with skin and stone	1.3
+Brazil nuts, weighed with shells	1.3
+Walnuts, weighed with shells	1.3
+Fat spread (40% fat), not polyunsaturated	1.3
+Ham and pork, chopped, canned	1.3
+Cheese, Feta	1.4
+Curly kale, raw	1.4
+Sherry, dry	1.4
+Cucumber, raw	1.5
+Fennel, Florence, boiled in salted water	1.5
+Spinach, raw	1.5
+Beer, mild, draught	1.5
+Cream, fresh, double, including Jersey cream	1.6
+Marrow, boiled in unsalted water	1.6
+Spring greens, boiled in unsalted water	1.6
+Lemon juice, fresh	1.6
+Mayonnaise, retail	1.6
+Broccoli, green, raw	1.8
+Courgette, raw	1.8
+Fennel, Florence, raw	1.8
+Quorn, pieces, as purchased	1.8
+Fat spread (35-40% fat), polyunsaturated	1.8
+Tofu, soya bean, steamed, fried	1.9
+Radish, red, raw	1.9
+Sweetcorn, baby, canned, drained	1.9
+Vegetables, stir-fried, takeaway	1.9
+Pale ale, bottled	1.9
+Asparagus, raw	2
+Courgette, boiled in unsalted water	2
+Turnip, boiled in unsalted water	2
+Cream, fresh, single	2.1
+Cauliflower, boiled in unsalted water	2.1
+Pumpkin, raw	2.1
+Pumpkin, boiled in salted water	2.1
+Cabbage, boiled in unsalted water, average	2.1
+Cabbage, boiled in salted water, average	2.1
+Curry, prawn, takeaway	2.1
+Beer, bitter, average	2.1
+Meat spread	2.1
+Cream, fresh, clotted	2.2
+Runner beans, boiled in unsalted water	2.2
+Aubergine, raw	2.2
+Marrow, raw	2.2
+Hazelnuts, weighed with shells	2.2
+Creme fraiche	2.3
+Swede, boiled in unsalted water	2.3
+Almonds, weighed with shells	2.3
+Beansprouts, mung, stir-fried in blended oil	2.4
+Szechuan prawns with vegetables, takeaway	2.4
+Chicken curry, average, takeaway	2.4
+Cottage cheese, plain, with additions	2.5
+Soya, non-dairy alternative to milk, sweetened, calcium enriched	2.5
+Cabbage, January King, boiled in salted water	2.5
+Gherkins, pickled, drained	2.5
+Leeks, boiled in unsalted water	2.5
+Leeks, boiled in salted water	2.5
+Gooseberries, cooking, stewed without sugar	2.5
+Melon, Canteloupe-type, weighed whole	2.5
+Cider, dry	2.5
+Rose wine, medium	2.5
+Cream, fresh, whipping	2.6
+Courgette, fried in corn oil	2.6
+Peppers, capsicum, green, raw	2.6
+Peppers, capsicum, green, boiled in salted water	2.6
+Okra, boiled in unsalted water	2.7
+Brussels sprouts, frozen, boiled in unsalted water	2.7
+Brussels sprouts, frozen, boiled in salted water	2.7
+Parsley, fresh	2.7
+Gravy instant granules, made up	2.7
+Aubergine, fried in corn oil	2.8
+Leeks, raw	2.8
+Melon, Canteloupe-type, weighed with skin	2.8
+Chicken soup, cream of, canned, condensed, as served	2.8
+Pate, meat, reduced fat	2.8
+Chicken tikka masala, retail	2.8
+Okra, raw	2.9
+Brazil nuts	2.9
+Brown ale, bottled	2.9
+Chicken noodle soup, dried, as served	2.9
+Meat extract	2.9
+Chicken satay	2.9
+Cheese, cottage, plain	3
+Cauliflower, raw	3
+Spring onions, bulbs and tops, raw	3
+Tomatoes, canned, whole contents	3
+Gooseberries, cooking, raw	3
+Vermouth, dry	3
+Elmlea, whipping	3.1
+Cheese, cottage, plain, reduced fat	3.1
+Spring greens, raw	3.1
+Green beans/French beans, raw	3.1
+Walnuts	3.1
+Cream, dairy, extra thick	3.2
+Mange-tout peas, boiled in salted water	3.2
+Lemons, whole, without pips	3.2
+Cheese, spreadable, soft white, medium fat	3.3
+Cheese, spreadable, soft white, low fat	3.3
+Yeast extract	3.3
+Liver, pig, stewed	3.3
+Luncheon meat, canned	3.3
+Elmlea, double	3.4
+Mange-tout peas, stir-fried in blended oil	3.4
+Brussels sprouts, boiled in unsalted water	3.4
+Fish paste	3.4
+Cream, sterilised, canned	3.5
+Tomatoes, grilled	3.5
+Passion fruit, weighed with skin	3.5
+Coconut, fresh	3.5
+Cream, fresh, soured	3.6
+Mushroom soup, cream of, canned	3.6
+Oxtail soup, dried, as served	3.6
+Skimmed milk, UHT	3.7
+Melon, Galia, weighed with skin	3.7
+Elmlea, single	3.8
+Beansprouts, mung, raw	3.8
+Pine nuts	3.8
+Skate, in batter, fried in blended oil, weighed with bones	3.8
+Soup, low calorie, canned	3.8
+Whole milk, pasteurised, summer	3.9
+Breakfast milk, summer	3.9
+Cabbage, January King, raw	3.9
+Melon, watermelon, weighed whole	3.9
+Ginger ale, dry	3.9
+Minestrone soup, dried, as served	3.9
+Skimmed milk, pasteurised, winter	4
+Brussels sprouts, raw	4
+Carrots, canned, re-heated, drained	4
+Cream, fresh, half	4.1
+Breakfast milk, pasteurised, average	4.1
+Creme fraiche, half fat	4.1
+Mange-tout peas, raw	4.1
+Cabbage, raw, average	4.1
+Coffee, instant	4.1
+Chicken soup, cream of, canned	4.1
+Skimmed milk, average	4.2
+Skimmed milk, pasteurised, summer	4.2
+Breakfast milk, winter	4.2
+Goats milk, pasteurised	4.2
+Cheese spread, plain	4.2
+Fromage frais, plain	4.2
+Melon, Honeydew, weighed whole	4.2
+Melon, Canteloupe-type	4.2
+Mustard, wholegrain	4.2
+Whole milk, average	4.3
+Whole milk, sterilised	4.3
+Semi-skimmed milk, pasteurised, summer	4.3
+Okra, stir-fried in corn oil	4.3
+Carrots, young, boiled in unsalted water	4.3
+Carrots, young, boiled in salted water	4.3
+Melon, Honeydew, weighed with skin	4.3
+Pistachio nuts, roasted and salted, weighed with shells	4.3
+Whole milk, pasteurised, average	4.4
+Fromage frais, virtually fat free, natural	4.4
+Green beans/French beans, frozen, boiled in unsalted water	4.4
+Blackberries, stewed without sugar	4.4
+Semi-skimmed milk, average	4.5
+Semi-skimmed milk, pasteurised, average	4.5
+Guava, raw, weighed with skin and pips	4.5
+Grapefruit, raw, weighed with peel and pips	4.5
+Macadamia nuts, salted	4.5
+Skate, in batter, fried in blended oil	4.5
+Dressing, French	4.5
+Channel Island milk, whole, pasteurised	4.6
+Channel Island milk, whole, pasteurised, summer	4.6
+Channel Island milk, whole, pasteurised, winter	4.6
+Channel Island milk, semi-skimmed, UHT	4.6
+Skimmed milk, pasteurised, average	4.6
+Whole milk, UHT	4.6
+Yogurt, greek style, plain	4.6
+Raspberries, raw	4.6
+Semi-skimmed milk, UHT	4.7
+Semi-skimmed milk, pasteurised, winter	4.7
+Turnip, raw	4.7
+Oxtail soup, canned	4.7
+Whole milk, pasteurised, winter	4.8
+Cheese, processed, plain	4.8
+Cheese, processed, slices, reduced fat	4.8
+Yogurt, greek, sheep	4.8
+Soya beans, dried, boiled in unsalted water	4.8
+Carrots, old, boiled in unsalted water	4.8
+Carrots, old, boiled in salted water	4.8
+Whitebait, in flour, fried	4.8
+Sheeps milk, raw	4.9
+Swede, raw	5
+Tomatoes, fried in corn oil	5
+Tomatoes, fried in lard	5
+Cabbage, white, raw	5
+Guava, raw	5
+Skimmed milk, sterilised	5.1
+Blackberries, raw	5.1
+White wine, sparkling	5.1
+Spaghetti bolognese, chilled/frozen, reheated	5.1
+Pineapple, raw, weighed with skin and top	5.2
+Fromage frais, virtually fat free, fruit	5.4
+Minestrone soup, canned	5.4
+Semi-skimmed milk, pasteurised, fortified plus SMP	5.5
+Melon, Galia	5.5
+Pecan nuts	5.5
+Chicken soup, cream of, canned, condensed	5.5
+Tomato soup, cream of, canned	5.5
+Liver sausage	5.5
+Tangerines, weighed with peel and pips	5.6
+Hazelnuts	5.6
+Passion fruit	5.7
+Whiting, in crumbs, fried in blended oil, weighed with bones and skin	5.7
+Tomato soup, dried, as served	5.7
+Satsumas, weighed with peel	5.8
+Oranges, weighed with peel and pips	5.8
+Strong ale/barley wine	5.8
+Carrots, young, raw	5.9
+White wine, sweet	5.9
+Sherry, medium	5.9
+Strawberries, raw	6
+Coconut, desiccated	6.1
+Beef curry, chilled/frozen, reheated	6.1
+Mixed vegetables, frozen, boiled in salted water	6.2
+Human milk, colostrum	6.3
+Clementines, weighed with peel and pips	6.3
+Peppers, capsicum, red, raw	6.4
+Apricots, raw, weighed with stones	6.4
+Whiting, in crumbs, fried in blended oil	6.4
+Almonds	6.5
+Human milk, transitional	6.6
+Blackcurrants, raw	6.6
+Melon, Honeydew	6.6
+Peaches, raw, weighed with stone	6.6
+Peanuts, roasted and salted	6.6
+Yogurt, virtually fat free/diet, fruit	6.7
+Grapefruit, raw	6.7
+Coconut, creamed block	6.7
+Curry sauce, canned	6.8
+Pasta sauce, tomato based	6.8
+Human milk, mature	6.9
+SMA, White Cap, reconstituted	6.9
+Cream, dairy, UHT, canned spray	6.9
+Melon, watermelon	6.9
+Sherry, sweet	6.9
+Gold Cap SMA, reconstituted	7
+Peppers, capsicum, red, boiled in salted water	7
+Apricots, raw	7
+Tomato soup, cream of, canned, condensed, as served	7
+Milupa, Aptamil, reconstituted	7.1
+Cow & Gate Plus, reconstituted	7.1
+Cream, dairy, UHT, canned spray, half fat	7.2
+Cheese spread, reduced fat	7.2
+Yogurt, low fat, plain	7.2
+Beetroot, raw	7.2
+Fruit cocktail, canned in juice	7.2
+Farley's Oster Milk, reconstituted	7.3
+Grapefruit, canned in juice	7.3
+Peaches, raw	7.4
+Rhubarb, canned in syrup	7.5
+Yogurt, whole milk, plain	7.6
+Blackcurrants, canned in juice	7.6
+Onions, raw	7.7
+Carrots, old, raw	7.7
+Mandarin oranges, canned in juice	7.7
+Nectarines, weighed with stones	7.7
+Tangerines	7.8
+Mayonnaise, reduced calorie, retail	7.8
+Yogurt, virtually fat free/diet, plain	7.9
+Cook-in-sauces, canned	7.9
+Soy sauce	7.9
+Peanuts, plain, weighed with shells	8
+Evaporated milk, whole	8.1
+Apples, cooking, stewed without sugar	8.1
+Grapefruit juice, unsweetened	8.2
+Plums, average, raw, weighed with stones	8.2
+Satsumas	8.3
+Oranges	8.3
+Apricots, canned in juice	8.3
+Clementines	8.4
+Tip Top dessert topping	8.5
+Pears, canned in juice	8.5
+Milumil, reconstituted	8.6
+Damsons, raw, weighed with stones	8.6
+Dressing, blue cheese	8.6
+Paw-paw, raw	8.7
+Paw-paw, raw, weighed with skin and pips	8.7
+Nectarines	8.7
+Plums, average, raw	8.7
+Orange juice, unsweetened	8.7
+Vegetarian sausages, baked/grilled	8.7
+Rock Salmon/Dogfish, in batter, fried in blended oil, weighed with bones	8.7
+Rock Salmon/Dogfish, in batter, fried in dripping, weighed with bones	8.7
+Lychees, raw, weighed with skin and stone	8.9
+Flavoured milk, pasteurised, chocolate	9
+Beetroot, boiled in salted water	9
+Peas, frozen, boiled in unsalted water	9
+Peas, frozen, boiled in salted water	9
+Pork sausages, chilled, grilled	9
+Pork sausages, raw, average	9
+Flavoured milk, pasteurised	9.1
+Pears, average, raw, weighed with core	9.1
+Kiwi fruit, weighed with skin	9.1
+Peas, boiled in unsalted water	9.2
+Peas, boiled in salted water	9.2
+Salad cream, reduced calorie	9.2
+Pork sausages, chilled, fried	9.2
+Mangoes, ripe, raw, weighed with skin and stone	9.3
+Rock Salmon/Dogfish, in batter, fried in blended oil	9.4
+Rock Salmon/Dogfish, in batter, fried in dripping	9.4
+Vegetable soup, canned	9.4
+Saveloy, unbattered, takeaway	9.4
+Ravioli, canned in tomato sauce	9.5
+Cherries, raw, weighed with stones	9.5
+Peaches, canned in juice	9.5
+Peanuts, dry roasted	9.5
+Mustard, smooth	9.5
+Instant soup powder, dried, made up with water	9.7
+Evaporated milk, light	9.8
+Pineapple, raw	9.8
+Apple juice, unsweetened	9.8
+Dressing, French, fat free	9.9
+Pork sausages, reduced fat, chilled/frozen, grilled	9.9
+Pears, average, raw	10
+Baby desserts, fromage frais, fruit, canned/bottled	10
+Broad beans, frozen, boiled in unsalted water	10.3
+Pineapple juice, unsweetened	10.3
+Pears, average, raw, peeled	10.4
+Peas, raw	10.5
+Kiwi fruit	10.5
+Yogurt, infant, fruit flavour	10.6
+Sweetcorn, on-the-cob, whole, boiled in unsalted water	10.6
+Hummus	10.7
+Lassi, sweetened	11
+Old potatoes, baked, flesh only, weighed with skin	11
+Rhubarb, stewed with sugar	11.1
+Baked beans, canned in tomato sauce, reduced sugar, reduced salt	11.5
+Parsnip, boiled in unsalted water	11.5
+Parsnip, boiled in salted water	11.5
+Cherries, raw	11.5
+Haddock, coated in crumbs, frozen, fried in blended oil	11.5
+Peanuts, plain	11.6
+Faggots in gravy, chilled/frozen, reheated	11.6
+Parsnip, raw	11.7
+Grape juice, unsweetened	11.7
+Noodles, egg, boiled	11.8
+Chicken chow mein, takeaway	11.8
+Butter beans, canned, re-heated, drained	11.9
+Port	11.9
+Pineapple, canned in juice	12
+Beef sausages, chilled, grilled	12
+Peanut butter, smooth	12.2
+Dressing, thousand island	12.2
+Soya, alternative to yogurt, fruit	12.4
+Black gram, urad gram, dried, boiled in unsalted water	12.4
+Rice pudding, canned, low fat	12.5
+Gooseberries, cooking, stewed with sugar	12.5
+Peas, canned, re-heated, drained	12.6
+Yogurt, drinking	12.7
+Mushy peas, canned, re-heated	12.7
+Pears, canned in syrup	13
+Yogurt, low fat, fruit	13.1
+Spaghetti, canned in tomato sauce	13.2
+Mandarin oranges, canned in syrup	13.2
+Fromage frais, fruit	13.3
+Blackberries, stewed with sugar	13.4
+Ice cream, non-dairy, reduced calorie	13.5
+Beef chow mein, retail, reheated	13.5
+Mangoes, ripe, raw	13.6
+Onions, fried in corn oil	13.7
+Onions, fried in lard	13.7
+Peaches, canned in syrup	13.7
+New potatoes, canned, re-heated, drained	13.8
+Fat spread (5% fat)	13.8
+Mung beans, whole, dried, boiled in unsalted water	14
+Tomato soup, cream of, canned, condensed	14
+New potatoes, in skins, boiled in unsalted water	14.1
+New potatoes, in skins, boiled in salted water	14.1
+Tomato puree	14.2
+Polony	14.2
+Baked beans, canned in tomato sauce, re-heated	14.3
+Lychees, raw	14.3
+Dressing, thousand island, reduced calorie	14.5
+Lasagne, chilled/frozen, reheated	14.5
+Jelly, made with water	14.6
+Blackcurrants, stewed with sugar	14.6
+Grapes, weighed with pips	14.6
+New potatoes, average, raw	14.7
+Chick peas, canned, re-heated, drained	14.7
+Fruit cocktail, canned in syrup	14.7
+Milkshake, thick, takeaway	14.8
+Bananas, weighed with skin	14.8
+Soya beans, dried, raw	14.9
+Garlic, raw	14.9
+Rice pudding, canned	15
+Chicken curry, chilled/frozen, reheated, with rice	15
+Black pudding, dry-fried	15.1
+Beef curry, chilled/frozen, reheated, with rice	15.1
+Custard, ready to eat	15.4
+Lentils, green and brown, whole, dried, boiled in salted water	15.4
+Grapefruit, canned in syrup	15.4
+Grapes, average	15.4
+Old potatoes, boiled in unsalted water	15.5
+Old potatoes, boiled in salted water	15.5
+Guava, canned in syrup	15.5
+Yogurt, twinpot, thick and creamy with fruit	15.7
+Old potatoes, average, raw	15.7
+Red kidney beans, dried, boiled in unsalted water	16
+Lentils, red, split, dried, boiled in unsalted water	16
+Whopper burger	16.1
+Pineapple, canned in syrup	16.2
+Vegetable kiev, baked	16.2
+New potatoes, boiled in unsalted water	16.3
+Old potatoes, baked, flesh only	16.4
+Apricots, canned in syrup	16.5
+Chick peas, whole, dried, boiled in unsalted water	16.6
+Red kidney beans, canned, re-heated, drained	16.6
+Strawberries, canned in syrup	16.6
+Macaroni, boiled	16.8
+Processed peas, canned, re-heated, drained	16.8
+Paw-paw, canned in juice	16.9
+Meat samosas, takeaway	16.9
+Spring rolls, meat, takeaway	16.9
+Sunflower seeds	17
+Yogurt, whole milk, fruit	17.1
+Mousse, chocolate, low fat	17.3
+Cashew nuts, roasted and salted	17.3
+Mousse, fruit	17.4
+Horseradish sauce	17.4
+Lychees, canned in syrup	17.7
+Stuffing mix, dried, made up	17.7
+Lollies, with real fruit juice	17.8
+Ice cream, non-dairy, vanilla	18.1
+Blackeye beans, dried, boiled in unsalted water	18.2
+Quarterpounder with cheese, takeaway	18.2
+Blackcurrants, canned in syrup	18.3
+Cherries, canned in syrup	18.3
+Gooseberries, dessert, canned in syrup	18.3
+Trifle, fruit, retail	18.7
+Sweet and sour chicken, takeaway	18.7
+Damsons, stewed with sugar	18.8
+Mousse, chocolate	19
+Fruit pie filling	19.4
+Prunes, canned in juice	19.6
+Creme caramel, retail	19.7
+Potato croquettes, fried in blended oil	19.7
+Sweet potato, raw	19.7
+Trifle, frozen	19.8
+Frozen ice cream desserts	20
+Lollies, containing ice-cream	20.1
+Mangoes, ripe, canned in syrup	20.1
+Spaghetti, white, boiled	20.2
+Aduki beans, dried, boiled in unsalted water	20.5
+Big Mac	20.5
+Ice cream bar, chocolate coated	20.8
+Mint sauce	20.9
+Cherry pie filling	21
+Vegetable and cheese grill/burger, in crumbs, baked/grilled	21.1
+Spaghetti, wholemeal, boiled	21.2
+Pork pie, individual	21.6
+Brown sauce, sweet	21.8
+Choc ice	22.1
+Bananas	22.5
+Chicken pie, individual, chilled/frozen, baked	22.5
+Prunes, canned in syrup	22.7
+Cornish pastie, retail	22.8
+Potato fritters, battered, cooked	23.2
+Profiteroles with sauce	23.3
+Pasta, fresh, cheese and vegetable stuffed, cooked	23.5
+Old potatoes, roast in corn oil	23.6
+Ice cream, dairy, flavoured	23.8
+Sorbet, fruit	23.9
+Eclairs, frozen	24
+Savoury rice, cooked	24
+Cheeseburger, takeaway	24.2
+Steak and kidney/Beef pie, individual, chilled/frozen, baked	24.4
+Bran, wheat	24.5
+Fruit drink/squash, undiluted	24.6
+Sweetcorn, kernels, canned, re-heated, drained	24.7
+Hamburger, takeaway	25
+Pickle, sweet	25.3
+Yam, raw	25.7
+Pizza, fish topped, takeaway	25.8
+Torte, fruit	26
+Plantain, boiled in unsalted water	26.2
+Vegebanger mix	26.4
+Pizza, meat topped	26.6
+Pizza, vegetarian	26.7
+Dates, raw, weighed with stones	26.9
+Chips, oven, frozen, baked	27.1
+Plantain, raw	27.1
+Advocaat	27.1
+Chips, homemade, fried in corn oil	27.4
+Chips, homemade, fried in dripping	27.4
+Chips, homemade, fried in blended oil	27.4
+Samosas, vegetable, retail	27.4
+Pizza, cheese and tomato, frozen	27.5
+Potato waffles, frozen, cooked	27.7
+Chips, retail, fried in dripping	27.8
+Chips, retail, fried in vegetable oil	27.8
+Tomato ketchup	27.8
+Chocolate dairy desserts	28.1
+Cornetto type ice cream cone	28.3
+Pizza, chicken topped, chilled	28.6
+Pizza, cheese and tomato, french bread	28.7
+Old potatoes, baked, flesh and skin	28.9
+Pasta, plain, fresh, cooked	29
+Brown rice, boiled	29.2
+Chips, microwave, cooked	29.2
+Lime juice cordial, undiluted	29.5
+Custard tarts, individual	30
+Yam, boiled in unsalted water	30
+Pizza, cheese and tomato, thin base	30.8
+Banoffee pie	31
+Runner beans, raw	31
+Chips, French fries, retail	31
+Gateau, fruit, frozen	31.1
+Cheese and onion rolls, pastry	31.3
+Pizza, cheese and tomato, takeaway	31.3
+Vegeburger mix	31.4
+Pizza, ham and pineapple, chilled	31.5
+Arctic roll	31.5
+Jam, reduced sugar	31.6
+Pizza, cheese and tomato, deep pan	31.8
+Bombay mix	32
+Cheesecake, fruit, individual	32.7
+Chips, straight cut, frozen, fried in corn oil	32.8
+Cheesecake, frozen	33.3
+Chestnuts	33.6
+Puff pastry, frozen, raw	33.7
+Prunes, ready-to-eat	33.8
+Crumble, fruit, retail	34.1
+Baking powder	34.4
+Gateau, chocolate based, frozen	34.9
+Apricots, ready-to-eat	36
+Trail mix	36.1
+Wheatgerm bread	36.2
+White pudding	36.3
+Gravy instant granules	37
+Black gram, urad gram, dried, raw	37.2
+Dream Topping	37.5
+Chips, fine cut, frozen, fried in corn oil	37.5
+Wholemeal bread, average	38.3
+Brown bread, average	38.4
+Granary rolls	39
+Croissants	39.7
+Scotch pancakes, retail	40.2
+Shortcrust pastry, frozen, raw	40.3
+Muffins, English style, white	40.4
+Red kidney beans, dried, raw	40.4
+Dried skimmed milk, with vegetable fat	40.6
+White bread, Danish style	40.7
+Brown rolls, soft	40.9
+Sponge cake, with dairy cream and jam	41.2
+Wheatgerm	41.4
+Crumpets, toasted	41.5
+Lemon meringue pie	41.7
+White bread, sliced	42.1
+Wholemeal rolls	42.1
+Mung beans, whole, dried, raw	42.3
+White bread, fried in lard	42.7
+Sponge pudding, canned	42.8
+White bread, premium	42.9
+Garlic bread, pre-packed, frozen	43
+Granary bread	43.2
+Pavlova, no fruit	43.5
+Doughnuts, ring	43.8
+Lentils, green and brown, whole, dried, raw	44.6
+Wholemeal bread, toasted	44.9
+All-Bran	45.1
+Aduki beans, dried, raw	45.4
+Chick peas, whole, dried, raw	45.4
+White bread, farmhouse or split tin, freshly baked	45.5
+Naan bread	45.7
+Doughnuts, jam	46.7
+Muffins, English style, white, toasted	46.7
+White rolls, soft	46.9
+Oxtail soup, dried	46.9
+Currant bread	47.3
+Ciabatta	47.5
+Danish pastries	48.4
+Figs, ready-to-eat	48.5
+Potato crisps	48.5
+Cake mix, made up	49
+Currant buns	49.2
+Brown bread, toasted	49.3
+Blackeye beans, dried, raw	49.5
+Corn snacks	49.6
+White rolls, crusty	49.9
+Pitta bread, white	50.4
+Dried skimmed milk	50.4
+Pasta, plain, fresh, raw	50.7
+Corn and starch snacks	50.9
+White bread, French stick	51.2
+White bread, toasted	51.3
+Lentils, red, split, dried, raw	51.4
+Chicken noodle soup, dried	51.4
+Mixed cereal and potato flour snacks	51.6
+Scones, fruit, retail	52.2
+Pizza base, raw	52.4
+Figs, dried	52.8
+Condensed milk, whole, sweetened	52.9
+Currant bread, toasted	53
+Prawn crackers, takeaway	53
+Snickers	53.1
+Potato rings	53.2
+Fruit pie, individual	53.3
+Coffee and chicory essence	53.5
+Chocolate fudge cake	53.6
+Minestrone soup, dried	53.6
+Chocolate biscuits, cream filled, full coated	53.8
+Madeira cake	53.8
+Build-up powder, soup	53.8
+Teacakes, toasted	54.4
+Bagels, plain	54.6
+Tortilla chips	54.7
+Swiss roll, chocolate, individual	54.9
+Wafers, filled, chocolate, full coated	55
+Christmas pudding, retail	55.1
+Fruit cake, plain, retail	55.6
+Bounty bar	55.8
+Ginger, ground	56.3
+Instant dessert powder	56.4
+Twiglets	56.4
+Condensed milk, skimmed, sweetened	57.1
+Dates, dried, weighed with stones	57.1
+Oatcakes, retail	57.4
+Mixed peel	57.4
+Short sweet biscuits	57.6
+Chocolate nut spread	57.6
+Chocolate chip cookies	57.8
+Potato crisps, low fat	57.8
+Wheat flour, wholemeal	58.2
+Shortbread	58.2
+Ready Brek	59.5
+Kit Kat	59.5
+Instant soup powder, dried	59.8
+Lemon curd	59.9
+Oatmeal, quick cook, raw	60
+Jam tarts, retail	60.1
+Chocolate, fancy and filled	60.3
+Spaghetti, wholemeal, raw	60.4
+Chocolate, plain	60.4
+Complan powder, savoury	60.4
+Reduced fat cake	60.5
+Malt bread, fruited	60.6
+Sponge cake, jam filled	61
+Cereal chewy bar	61.1
+Stuffing mix, dried	61.4
+Liquorice shapes	61.5
+Tomato soup, dried	61.5
+Digestive biscuits, chocolate	61.6
+Wafer biscuits, filled	62
+Puffed Wheat	62.2
+Wheat flour, brown	62.4
+Muesli, with no added sugar	62.4
+Digestive biscuits, plain	63
+Chocolate biscuits, full coated	63.5
+Crunch biscuits, cream filled	63.6
+Crispbread, rye	64.3
+Twix	64.5
+Marzipan, retail	64.6
+Sandwich biscuits, jam filled	64.9
+Oat Bran Flakes, with raisins	65
+Cherries, glace	65
+Shredded Wheat	65.2
+Oat based biscuits	65.2
+Fancy iced cakes, individual	65.2
+Noodles, egg, raw	65.3
+Treacle, black	65.6
+Bran Flakes	66
+Sultana Bran	66
+Clusters	67.3
+Sandwich biscuits, cream filled	67.4
+Spaghetti, white, raw	67.5
+Jam, fruit with edible seeds	67.7
+Nutri-Grain	67.8
+Currants	67.8
+Muesli, swiss style	68
+Dried mixed fruit	68
+Jam, stone fruit	68
+Wheat flour, white, breadmaking	68.6
+Wheat flour, white, self-raising	68.8
+Weetabix	68.9
+Semi-sweet biscuits	68.9
+Water biscuits	69
+Macaroni, raw	69
+Fruit 'n Fibre	69
+Raisins	69.3
+Sultanas	69.4
+Smartie-type sweets	70.3
+Savoury rice, raw	70.6
+Wheat flour, white, plain	70.7
+Milky Way	71.6
+Shreddies	71.7
+Ice cream wafers	71.7
+Liquorice allsorts	73
+Jaffa cakes	73.2
+Gingernut biscuits	73.6
+Mars bar	73.6
+Brown rice, raw	74
+Honeycomb	74.4
+Special K	75
+Horlicks powder	75
+Cheerios	75.9
+Fruit gums/jellies	75.9
+Honey	76.4
+Syrup, golden	77.4
+Ovaltine powder	78.3
+Multi-Grain Start	79
+Fruit pastilles	80.5
+Rice cakes	81.1
+Corn Flakes	82
+Crunchy Nut Corn Flakes	82
+Cornflour	83.6
+Coco Pops	85
+Rice Krispies	85
+Sugar Puffs	86.5
+Frosties	88
+Ricicles	89
+Peppermints	97.9
+Sugar, Demerara	99.5
